@@ -1,0 +1,24 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <!--任务标题文字颜色-->
+    <color name="task_title_text_color">#333333</color>
+    <!--“日常任务”、“推送任务”文字颜色-->
+    <color name="list_group_text_color">#0033FF</color>
+    <!--各个界面的背景色-->
+    <color name="bg_color">#F5F5F5</color>
+    <!--所有标头文字颜色-->
+    <color name="title_text_color">#333333</color>
+    <!--登录界面文字颜色-->
+    <color name="login_text_color">#ffffff</color>
+    <!--登录界面输入框文字颜色-->
+    <color name="login_hint_text_color">#efefef</color>
+    <!--导航按钮文字颜色-->
+    <color name="navigation_text_color">#3888e7</color>
+    <!--导航按钮文字点击颜色-->
+    <color name="navigation_text_color_pressed">#9ec9fb</color>
+    <!--列表item的点击效果色-->
+    <color name="list_item_color_pressed">#CCCCCC</color>
+    <!--进程背景色-->
+    <color name="progress_bg">#66000000</color>
+</resources>

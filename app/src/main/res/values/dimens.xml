@@ -1,0 +1,58 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="padding">9dp</dimen>
+
+    <!--ListView的item高度 -->
+    <dimen name="listView_item_height">52dp</dimen>
+    <!--任务分组高度 -->
+    <dimen name="task_group_height">44dp</dimen>
+    <!--用于分隔的空任务分组高度 -->
+    <dimen name="null_task_group_height">15dp</dimen>
+    <!--操作导航按钮(eg.返回、保存、取消...)的宽度 -->
+    <dimen name="navigation_button_width">50dp</dimen>
+    <!--操作导航按钮(eg.返回、保存、取消...)的高度 -->
+    <dimen name="navigation_button_height">25dp</dimen>
+    <!--操作导航按钮(eg.返回、保存、取消...)的文字大小 -->
+    <dimen name="navigation_button_text_size">15sp</dimen>
+    <!--按钮的高度 -->
+    <dimen name="button_height">34dp</dimen>
+    <!--任务明细文字大小 -->
+    <dimen name="task_info_text_size">15sp</dimen>
+    <!--标题文字大小 -->
+    <dimen name="title_text_size">18sp</dimen>
+    <!--标题栏高度 -->
+    <dimen name="title_bar_height">48dp</dimen>
+    <!--问题描述宽度 -->
+    <dimen name="question_descr_width">75dp</dimen>
+    <!--问题描述文字大小 -->
+    <dimen name="question_descr_text_size">14sp</dimen>
+    <!--问题答案文字大小 -->
+    <dimen name="question_answer_text_size">13sp</dimen>
+    <!--问题选项高度 -->
+    <dimen name="choose_item_height">42dp</dimen>
+    <!--问题item高度 -->
+    <dimen name="question_item_height">58dp</dimen>
+    <!--分隔型问题item高度 -->
+    <dimen name="partitioning_question_item_height">40dp</dimen>
+    <!--问题item的内间距 -->
+    <dimen name="question_item_pandding">9dp</dimen>
+    <!--问题item的线条高度 -->
+    <dimen name="question_line_height">5dp</dimen>
+    <!--上传图片item的大小 -->
+    <dimen name="upload_image_size">160dp</dimen>
+    <!--状态图标的宽度 -->
+    <dimen name="state_icon_width">38dp</dimen>
+    <!--状态图标的高度 -->
+    <dimen name="state_icon_height">52dp</dimen>
+    <!--状态图标的文字大小 -->
+    <dimen name="state_icon_text_size">10sp</dimen>
+    <!--城市的文字大小 -->
+    <dimen name="area_text_size">16sp</dimen>
+    <!--城市的文字间距 -->
+    <dimen name="area_padding">5dp</dimen>
+    <!--城市的选项高度 -->
+    <dimen name="area_item_height">45dp</dimen>
+</resources>
